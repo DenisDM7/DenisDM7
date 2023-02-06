@@ -10,8 +10,8 @@
 
 <h3 align="left">Otras formas de contactarme:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denis montoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis montoya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@drmontoya850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@drmontoya850" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/denis-montoya-295a21264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis montoya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/drmontoya850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@drmontoya850" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

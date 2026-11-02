@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Denis Montoya </h1> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1aWR3NXZzZnF1NXZzZnF1NXZzZnF1/3oKIPnAiaMCws8nOsE/giphy.gif" right="300px">
+<h1 align="center">Hola 👋, Me llamo Denis Montoya </h1> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1aWR3NXZzZnF1NXZzZnF1NXZzZnF1/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="300" alt="Gato programando" />
 
 <h3 align="center">Y soy un apasionado de la tecnología y en especial de los "Datos" y de la Ciberseguridad y las redes</h3>
 

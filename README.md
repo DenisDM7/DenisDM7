@@ -1,3 +1,22 @@
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top" width="60%">
+        <h1>¡Hola! Soy Denis Montoya 👋</h1>
+        <p>🎓 <b>Estudiante de Licenciatura en Informática Administrativa</b><br>
+        📊 <b>Analista de Datos</b> | 🛡️ <b>Apasionado de la Ciberseguridad & Redes</b></p>
+        <p>Me dedico a explorar, procesar y extraer valor de los datos, así como a documentar recursos, herramientas y prácticas en el ámbito de la ciberseguridad y la administración de sistemas.</p>
+      </td>
+      <td align="center" valign="middle" width="40%">
+        <img src="https://media.giphy.com/media/qgQUGG4dbv5BLHEVvD/giphy.gif" width="260" alt="Tech GIF" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+--
+
+
 <h1 align="center">Hola 👋, Me llamo Denis Montoya </h1> 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1aWR3NXZzZnF1NXZzZnF1NXZzZnF1/3oKIPnAiaMCws8nOsE/giphy.gif" width="35px">
 <h3 align="center">Y soy un apasionado de la tecnología y en especial de los "Datos" y de la Ciberseguridad y las redes</h3>

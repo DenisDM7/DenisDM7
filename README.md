@@ -2,6 +2,35 @@
 <h3 align="center">Y soy un apasionado de la tecnología y en especial de los "Datos"🥰</h3>
 <img align="right" alt="data Science" width="400" src="https://media4.giphy.com/media/dF3MnooYFjEcmpKf0I/giphy.gif?cid=ecf05e47tctr0c32msql3k6d3f0rek1kifrb5srrlz515g8c&rid=giphy.gif&ct=g">
 
+
+# ¡Hola! Soy Denis Montoya 👋
+
+🎓 **Estudiante de Licenciatura en Informática Administrativa**
+📊 **Analista de Datos** | 🛡️ **Apasionado de la Ciberseguridad & Redes**
+
+Me dedico a explorar, procesar y extraer valor de los datos, así como a documentar recursos, herramientas y prácticas en el ámbito de la ciberseguridad y la administración de sistemas.
+
+---
+
+### 🛡️ & 📊 Mis Áreas de Enfoque
+
+* **Análisis de Datos:** Análisis Exploratorio de Datos (EDA), manipulación de datasets, modelado básico y visualización (Python, Pandas, NumPy, Matplotlib, SQL).
+* **Ciberseguridad y Redes:** Fundamentos de redes, administración en Linux/Windows, análisis de vulnerabilidades y herramientas de auditoría.
+* **Apuntes & Herramientas:** Documentación estructurada de conceptos clave, scripts de automatización y laboratorios prácticos.
+
+---
+
+### 🛠️ Lenguajes y Herramientas
+
+* **Análisis & Datos:** `Python` · `Pandas` · `NumPy` · `Matplotlib` · `SQL` · `Jupyter Notebooks`
+* **Seguridad & Infraestructura:** `Linux (Bash)` · `Networking (CCNA)` · `Wireshark` · `Nmap`
+* **Control de Versiones & Gestión:** `Git` · `GitHub` · `Notion`
+
+---
+
+### 📬 Contacto
+* ✉️ **Correo:** dmontoya850@gmail.com
+
 - 🌱Actualmente estoy Estudiando **Mi licenciatura en Informática Administrativa, así mismo estudio de forma autodidacata Analisis de Datos🥰**
 
 - 💬 Me puedes preguntar sobre  **Python, Pandas, Numpy, Matplotlib**
